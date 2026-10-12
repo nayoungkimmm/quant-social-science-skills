@@ -35,7 +35,7 @@ Covariates can be useful when they are expected to predict the outcome and impro
 (e) Check whether the paper treats a balance table as proof that randomization succeeded or failed. A balance table shows realized differences between treatment groups, but those differences alone do not establish whether the assignment procedure worked. Random assignment does not guarantee exact balance in every realized experiment, and with many pretreatment variables, some differences are expected by chance (pp. 34–35). Reviewers should examine how random assignment was implemented and whether there were implementation errors or differential attrition before drawing conclusions from the table (pp. 33–34).
 
 
-## 4. Scope (limitation 부분 읽기)
+## 4. Scope 
 
 **Applies to**: Randomized experimental studies with pretreatment covariates, where authors report baseline comparisons or balance tests, or use pretreatment variables in their analysis. Checks (a) and (d) apply when authors use balance-test results or baseline tables to assess whether randomization succeeded or whether the findings are credible. Checks (b) and (c) apply when covariates are included in, or the analysis is otherwise changed because of, observed treatment–covariate imbalance. For checks (b) and (c), reviewers should determine whether the covariate-selection rule was set before the balance results were examined and whether inclusion was justified by the covariate’s expected relationship with the outcome. Theorem 1 shows that the benefit of adjustment depends both on how strongly the covariate predicts the outcome and on its association with treatment assignment; imbalance alone does not establish that adding the covariate will improve precision (pp. 36–37).
 
