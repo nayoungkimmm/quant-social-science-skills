@@ -1,4 +1,4 @@
-# <Paper short title>
+# Balance Testing in Clean Data
 
 **Contributor:** Nayoung Kim
 
